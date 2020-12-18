@@ -21,3 +21,10 @@ This app requires below two permisssion to work properly.
  * Go to **Settings** >>> **System** >>> **Developer options**, scroll down and enable **USB debugging** option.
 
 ![USB debugging](usb_debug.jpg)
+
+### 3. Download ADB on your PC
+
+ * Download ADB for your pc from [here](https://www.xda-developers.com/google-releases-separate-adb-and-fastboot-binary-downloads).
+
+ * Unzip the downloaded zip.
+ ---
