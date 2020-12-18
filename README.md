@@ -81,3 +81,17 @@ This app requires below two permisssion to work properly.
  
  ---
  ---
+
+## Disablement of Battery Optimisation
+
+  * Go to **Settings** >>> **Battery** >>> **Battery optimisation**, and search for **SwitchHZ**.
+  
+  ![battery1](battery1.jpg)
+  
+  ![battery2](battery2.jpg)
+  
+  * Click on **SwitchHZ** and then select **Don't optimise**.
+  
+  ![battery3](battery3.jpg)
+  
+# Done!! Never Settle ;)
