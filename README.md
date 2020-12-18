@@ -55,7 +55,7 @@ This app requires below two permisssion to work properly.
  
 ![adb_start](adb_start.jpg)
 
-* Now look for a prompt **Allow USB debugging** in your device and click **Ok**.
+* Now look for a prompt **Allow USB debugging** in your device and click **Ok/Allow**.
 
 ![adb_prompt](adb_prompt.jpg)
 
