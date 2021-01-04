@@ -98,3 +98,7 @@ This app requires below two permisssion to work properly.
   ![battery3](battery3.jpg)
   
 # Done!! Never Settle ;)
+
+#### if you still facing issue or wan't to report bug you can join below group.
+
+Telegram Group: [https://t.me/SwitchHZ](https://t.me/SwitchHZ)
