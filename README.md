@@ -1,5 +1,8 @@
 # SwitchHZ Help
 
+### Download Link : [https://play.google.com/store/apps/details?id=com.mpschahal16.switchhz](https://play.google.com/store/apps/details?id=com.mpschahal16.switchhz)
+ 
+ ---
 This app requires below two permisssion to work properly.
 
  * Write secure settings (Required to write refresh rate value). 
